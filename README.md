@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Lucas Rosier
+- 👀 I’m interested in videos games and pop culture
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : lucasrosier65@gmail.com
+- ⚡ Fun fact: I don't have a fun fact to give !
