@@ -12,12 +12,10 @@ J’aime construire des projets qui allient design simple et code propre. Toujou
 
 ## 📫 Me contacter
 
-- ✉️ lucas.rosier@efrei.net *(remplace par un vrai mail si tu veux)*
+- ✉️ lucas.rosier@efrei.net
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-rosier-674333296/)
 - 🌍 Basé en France | Ouvert aux collaborations & projets sympas
 
 ---
-
-> *“Apprendre chaque jour, coder tous les jours.”*
 
 Merci de passer par ici 👋 N’hésite pas à jeter un œil à mes projets ou à me faire un coucou !
